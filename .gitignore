@@ -1,0 +1,53 @@
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Directory for local environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Vite output
+dist/
+
+# React
+build/
+coverage/
+
+# TypeScript
+*.tsbuildinfo
+
+# Temporary files
+temp/
+tmp/
+.cache/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# WordPress specific (if applicable)
+cms/wp-content/uploads/
+cms/wp-config.php
+cms/.htaccess
